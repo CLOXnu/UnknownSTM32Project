@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I "D:\Apps\keil4.12\ARM\INC" -I "D:\Apps\keil4.12\ARM\INC\ST\STM32F10x" -o ".\obj\main.o" --omf_browse ".\obj\main.crf" --depend ".\obj\main.d" "src\main.c"

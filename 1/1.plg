@@ -1,0 +1,14 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\WorkSpace\stm32\project\1\1.uvproj
+Project File Date:  09/05/2017
+
+<h2>Output:</h2>
+Build target '1'
+assembling cortexm3_macro.s...
+cortexm3_macro.s: ARM Assembler, 4.1 [Build 481] 
+cortexm3_macro.s: Error: A9932E: LICENSE ERROR (R208: RENEW LICENSE ID CODE (LIC))
+Target not created
